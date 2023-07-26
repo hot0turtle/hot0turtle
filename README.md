@@ -5,7 +5,7 @@ frequentemente usado para formatar arquivos README, para escrever mensagens em f
 1. lista
 1. lista 2
 
-acesse o site [esseaqporra](https://www.montereybayaquarium.org/animals/live-cams/sea-otter-cam)
+acesse o site [este site](https://www.montereybayaquarium.org/animals/live-cams/sea-otter-cam)
 <he he funny otter video>
 cod|otter|name|quality
 :---:|:---|:---:|---:
