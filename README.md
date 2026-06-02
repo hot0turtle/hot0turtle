@@ -2,7 +2,7 @@
 
 ```javascript
 const Leonardo = {
-code : [Javascript, Python, HTML, CSS, Rust]
+code : [Javascript, Python, HTML, CSS, Rust, Java]
 }
 
 
